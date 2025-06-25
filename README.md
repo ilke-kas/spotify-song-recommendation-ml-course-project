@@ -1,4 +1,4 @@
-x# 🎵 Spotify Song Recommendation System
+# 🎵 Spotify Song Recommendation System
 
 This repository contains a basic machine learning-based music recommendation system developed as a course project for the **Machine Learning Course at Bilkent University**. It uses Spotify audio features to generate personalized recommendations using KNN, PCA, and Autoencoder-based models.
 
